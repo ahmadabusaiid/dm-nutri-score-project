@@ -1,0 +1,194 @@
+id,name,nutriscore,energy-kj_100g,sugars_100g,saturated-fat_100g,salt_100g,proteins_100g,fiber_100g,fruits-vegetables-nuts-estimate-from-ingredients_100g,nutriscore,G_0,PMS_0.5,PMS_0.6,PMS_0.7,OMS_0.5,OMS_0.6,OMS_0.7,Decision Tree,kNN,Random Forest
+3.16893E+12,Cruesli Mélange De Noix,a,1933.008,12,19,0,8.5,10,0,a,b,a,b,c,a,c,d, c, e, a
+80135463,,e,2255.176,56.3,30.9,42.8,6.3,0,0,e,e,e,e,e,e,e,e, e, e, e
+20267605,Anacardi,b,2510.4,6.5,47.6,8,20.5,5.2,0,b,b,a,a,d,a,b,e, b, b, d
+5.41119E+12,Almonddrink,b,54.392,0,1.1,56,0.4,0.3,0,b,c,e,e,e,e,e,e, b, b, b
+3.16893E+12,Flocons d'avoine complète,a,1569,1.1,8,4,11,9,0,a,b,a,a,c,a,a,d, a, a, a
+3.15947E+12,Corn flakes,b,1581.552,8,0.9,440,7,3,0,b,b,c,c,c,d,d,d, b, b, b
+8.0768E+12,Spaghetti n.5,a,1502.056,3.5,2,4,13,3,0,a,b,b,c,c,c,d,d, a, a, a
+20047238,Alesto mixed nuts (walnuts,,,,,,,,,a,b,a,a,e,a,a,e, c, b, b
+5.01003E+12,Weetabix,a,1514.608,4.2,2,112,12,10,0,a,b,a,a,b,a,b,c, a, a, a
+5.41119E+12,,b,108.784,3.1,1.1,56,0.4,0.3,0,b,c,e,e,e,e,e,e, b, b, b
+3.22982E+12,Amande sans sucre,b,104.6,0.5,1.7,20,0.7,0.5,0,b,c,e,e,e,e,e,e, b, b, b
+7.39438E+12,Hafer Barista Edition,b,246.856,3.4,3,40,1.1,0.8,0,b,c,e,e,e,e,e,e, b, b, b
+5.41119E+12,No sugars oat,a,167.36,0,1.5,36,0.2,1.2,0,a,c,e,e,e,e,e,e, a, a, a
+5.01003E+12,Crispy minis,a,1615.024,17,5.1,64,10,10,0,a,b,a,b,c,a,c,d, a, a, a
+80042556,Tomaten Fruchtfleisch,a,108.784,2.8,0.2,120,1.2,0,0,a,c,e,e,e,e,e,e, a, b, b
+5.06004E+12,Lightly sea salted crisps,b,1991.584,0.64,27,336,6.2,5.5,0,b,c,b,b,c,c,c,d, b, b, c
+80176800,Nutella,e,2230.072,56.3,30.9,44,6.3,3,0,e,d,c,d,e,d,e,e, e, e, e
+5.41119E+12,Oat,a,184.096,2.6,1.4,40,0.4,1.9,0,a,c,d,d,e,e,e,e, b, a, a
+5.05399E+12,Sour Cream & Onion,d,2242.624,2.4,32,560,4.6,2.9,0,d,c,c,d,d,d,e,e, d, d, d
+5.05383E+12,Smacks,c,1577.368,34,1.6,8,7.1,5,0,c,b,b,b,c,c,c,d, b, a, c
+5.00016E+12,Heinz Beanz In a rich tomato sauce,a,338.904,4.3,0.4,240,4.8,3.9,34,a,b,b,b,c,c,c,d, a, a, a
+5.41119E+12,Kokosnuss ohne Zucker,b,58.576,0,1.2,28,0.1,0,0,b,c,e,e,e,e,e,e, b, b, b
+5.01003E+12,Weetabix Original,a,1514.608,4.2,2,112,12,10,0,a,b,a,a,b,a,b,c, a, a, a
+8.41008E+12,Riegel Oats & Honey,c,1953.928,26.8,18.1,340,8.7,6.4,0,c,c,b,c,c,c,d,d, c, b, c
+7.3004E+12,Original,a,1397.456,1,1.5,400,9,19,0,a,b,a,a,c,a,b,d, a, a, a
+5.01003E+12,Swiss Style Muesli No Added Sugar,a,1543.896,16,5.8,112,12,8.3,15,a,b,a,b,c,b,c,d, a, a, a
+20101268,Nougat Bits / Choco Hazelnut Pillows,c,1861.88,28.5,15.4,160,7.2,4.8,0,c,c,b,c,d,c,d,e, c, a, c
+5.41119E+12,Plant protein chocolate flavour,a,288.696,5,2.8,64,5,1.3,0,a,c,c,c,e,d,d,e, a, a, a
+8.0087E+12,Seeded Loaf (Bread),b,1041.816,4.1,6.6,388,4.5,9.9,0,b,c,c,c,c,d,d,d, a, a, b
+8.0087E+12,Maestro classic,a,974.872,3.3,3.4,396,3.5,8.1,0,a,b,b,c,d,c,d,e, a, a, a
+7.39438E+12,Hafer Haver Calcium,b,188.28,4,1.5,40,1,0.8,0,b,c,e,e,e,e,e,e, b, a, b
+5.70198E+12,,d,2782.36,0.5,75,360,0.5,0,0,d,e,e,e,e,e,e,e, d, b, c
+20004132,Tomaten gehackt,c,108.784,2.7,0.2,520,1.3,0,0,c,c,e,e,e,e,e,e, c, a, c
+4.00041E+12,Vegane Mühlen Schnitzel,a,849.352,0.6,10,640,14,6.4,0,a,c,a,b,d,a,c,e, a, a, a
+5.01003E+12,Weetabix,a,1514.608,4.4,2,112,12,10,0,a,b,a,a,b,a,b,c, a, a, a
+4.00041E+12,,a,849.352,0.6,10,640,14,6.4,0,a,c,a,b,d,a,c,e, a, a, a
+80042532,Double Concentrate Tomato Purée,a,401.664,14,0.2,200,4.2,0,0,a,c,c,c,e,d,d,e, a, a, a
+5.41119E+12,Plant Protein,a,238.488,2.5,2.8,40,5,0.9,0,a,c,c,c,e,d,d,e, a, b, a
+8.7157E+12,Baked Beans,a,326.352,4.7,0.2,240,4.7,3.9,0,a,b,b,b,c,c,c,d, a, a, a
+5.20239E+12,Greek white,e,1276.12,0,29,680,0,0,0,e,e,e,e,e,e,e,e, d, c, e
+5.01003E+12,Oatibix,,,,,,,,,a,b,a,a,c,a,a,d, a, a, a
+5.05383E+12,Céréales Corn Flakes Kellogg's Original,b,1581.552,8,0.9,448,7,3,0,b,b,c,c,c,d,d,d, c, b, b
+7.39438E+12,Oat drink barista edition,b,246.856,4,3,40,1,0.8,0,b,c,e,e,e,e,e,e, b, b, b
+3.25039E+12,Flocons d'avoine,a,1527.16,1.1,6.8,8,12.1,11.4,0,a,b,a,a,c,a,a,d, a, a, a
+5.06004E+12,Chips sel de mer et poivre noir,c,2075.264,1.4,27.2,520,6.8,5,0,c,c,b,c,d,c,d,e, b, d, c
+4.00042E+12,Schokolade Marzipan,e,2075.264,51,27,4,7,0,0,e,d,e,e,e,e,e,e, e, e, e
+20443375,Gemüse Oliven,,,,,,,,,d,e,e,e,e,e,e,e, d, c, c
+5.41119E+12,Simply plain - soya yogurt,a,213.384,2.1,2.3,100,4,1,0,a,c,d,d,e,e,e,e, a, b, a
+5.06004E+12,sea salt & cider vinegar chips,c,1928.824,1.8,25,800,5.7,5.2,0,c,c,b,c,e,c,d,e, c, c, c
+8.00125E+12,Fusilli n°34,a,1468.584,3.4,1.5,0,14,2.9,0,a,b,a,c,c,b,d,d, a, a, a
+8.4126E+12,Pan de molde grande,a,1054.368,3.8,2.7,440,9.8,4.7,0,a,b,a,b,b,b,c,c, c, a, a
+8.41008E+12,Protein Peanut & Chocolate Cereal Bar,d,2104.552,16.3,30.1,360,25.7,13.8,0,d,c,b,c,d,c,d,e, d, b, d
+20006105,Pan de centeno integral,c,1569,6.96,3.21,714,10.4,16.6,0,c,b,a,b,c,b,c,d, b, c, a
+20753030,Banane,a,378.652,15.6,0.5,13,1.06,2.7,0,a,c,c,c,e,d,d,e, a, a, a
+5.41119E+12,Barista Mandel,b,104.6,2.5,1.2,32,0.5,0.2,0,b,c,e,e,e,e,e,e, b, b, b
+5.41119E+12,Soya Original,a,163.176,2.5,1.8,36,3,0.5,0,a,c,d,d,e,e,e,e, a, a, a
+20033347,Olives vertes,c,715.464,0,18,1160,1,2.3,0,c,e,e,e,e,e,e,e, c, c, c
+5.05383E+12,Kellogg's Corn Flakes,c,1581.552,8,0.9,452,7,3,0,c,b,c,c,c,d,d,d, c, b, c
+8.00125E+12,Linguine n° 7,a,1468.584,3.4,1.5,0,14,2.9,0,a,b,a,c,c,b,d,d, a, a, a
+8.71133E+12,Cookies on Cookie Dough Non-Dairy Ice Cream,d,962.32,18,12,56,1.7,0.96,0,d,d,e,e,e,e,e,e, d, a, b
+7.61303E+12,Dolce Gusto Café au Lait,e,1673.6,29.1,20,412,21.2,8.2,0,e,c,c,c,d,d,d,e, e, b, c
+5.00011E+12,Quaker Rolled Oats,a,1564.816,1.1,8,0,11,9,0,a,b,a,a,c,a,a,d, a, a, a
+20534479,Soft Datteln entsteint,c,1192.44,57,0.3,12,2.2,6.9,0,c,c,b,e,e,c,e,e, b, a, a
+5.06009E+12,Granola low sugar,b,2096.184,3.8,27.1,8,14.2,9.7,0,b,b,a,a,d,a,a,e, b, e, d
+8.80104E+12,Shin Kimchi Ramyun,e,1786.568,4.9,13,1800,9.6,0,0,e,d,e,e,e,e,e,e, e, d, e
+4.05649E+12,Kokosraspel,c,2794.912,6.6,65.2,20,7.4,14.8,100,c,a,a,a,a,a,b,b, c, b, b
+7.39438E+12,Oat Drink,b,192.464,4.1,1.5,40,1,0.8,0,b,c,e,e,e,e,e,e, b, a, b
+8.71243E+12,Demae Ramen Poulet Sachet,e,380.744,0.4,4,440,2,0,0,e,c,e,e,e,e,e,e, e, a, e
+5.06004E+12,Sweet Chilli & Red Pepper,c,1958.112,5.1,25,440,6.3,5.4,0,c,c,b,c,c,c,d,d, c, c, c
+20003463,Spaghetti,a,1464.4,3.2,1.2,0,12.5,3.5,0,a,b,a,b,b,b,c,c, a, a, a
+8.0087E+12,Fette crocantinis schar,c,1589.92,6,1.7,560,6,2.3,0,c,c,c,d,d,d,e,e, c, c, c
+20067274,Choco Shells,b,1585.736,23.9,2.1,148,10.7,6,0,b,b,a,b,c,b,c,d, b, a, b
+4.0081E+12,,b,92.048,1.7,0.5,440,1.5,0,0,b,c,e,e,e,e,e,e, b, a, b
+5.01003E+12,Oatibix Avena Flakes,b,1694.52,14,8.6,112,11,8,0,b,b,a,b,c,b,c,d, b, a, b
+3.27323E+12,Organic So Soja! Natural,a,192.464,0,2.1,40,4.8,0,0,a,c,c,c,e,d,d,e, a, a, a
+5.41119E+12,Soya Unsweetened Organic (Red),a,146.44,0,2.1,16,3.7,0.6,0,a,c,d,d,e,e,e,e, a, a, a
+10100295,Weetabix,a,1514.608,4.2,2,112,12,10,0,a,b,a,a,b,a,b,c, a, a, a
+5.41119E+12,Devilishly dark chocolate plant-based dessert,a,397.48,11.8,2.3,52,3.1,1.4,0,a,c,d,d,e,e,e,e, a, a, a
+20115685,chapelure,b,1493.688,4.4,1.6,600,13,5.2,0,b,b,a,a,c,a,b,d, b, c, b
+5.02036E+12,Bakery Co. 5 The Original Bagels,a,1079.472,5.6,1.2,308,10.1,3.1,0,a,b,b,b,c,c,c,d, a, a, a
+5.20239E+12,Violife 100% vegan original flavour slices,e,1192.44,0,23,920,0,0,0,e,e,e,e,e,e,e,e, d, c, e
+7.61303E+12,Cheerios Multi,b,1581.552,17.7,4.8,320,9.9,9.6,0,b,b,b,b,c,c,c,d, b, a, b
+5.41251E+12,Wraps,d,1389.088,1.3,18,520,9.3,0,0,d,c,c,e,e,d,e,e, d, b, d
+4.05649E+12,Olivenöl,c,3447.616,0,91.6,0,0,0,0,c,d,e,e,e,e,e,e, c, b, c
+3.07378E+12,Le Cœur Fleuri Végétal,e,1196.624,3,22,640,1,0,0,e,e,e,e,e,e,e,e, e, b, c
+5.41119E+12,Almond Unsweetened,b,54.392,0,1.1,52,0.4,0.4,0,b,c,e,e,e,e,e,e, b, b, b
+20118174,Mandeloliven,c,589.944,0,13,1044,1.2,0,0,c,e,e,e,e,e,e,e, c, c, c
+5.00037E+12,Dairy Free Spread,d,2108.736,0,56,600,0,0,0,d,e,e,e,e,e,e,e, d, d, e
+5.05399E+12,Pringles Smokey Bacon Flavour,d,2171.496,3,29,640,6.6,3.6,0,d,c,b,d,d,c,e,e, e, d, c
+20054830,Riz arborio,b,1481.136,0.2,0.4,4,6.7,0,0,b,b,b,c,e,c,d,e, b, a, b
+20487942,Sun-dried Tomatoes,e,577.392,17,0.7,2640,7,6,0,e,c,b,b,b,c,c,c, e, c, c
+5.738E+12,,d,2012.504,19,22,320,8,5.7,0,d,c,b,c,d,c,d,e, d, b, d
+20293604,Olivenöl,c,3447.616,0,91.6,0,0,0,0,c,d,e,e,e,e,e,e, c, b, c
+5.01004E+12,Crumpets,c,736.384,2,0.8,592,6,1.9,0,c,c,b,d,d,c,e,e, c, a, c
+4.05649E+12,Artesanas con pipas,,,,,,,,,d,c,b,d,e,c,e,e, d, d, d
+4.05649E+12,Oat unsweetened,b,163.176,3.1,1.1,44,0.3,0.5,0,b,c,e,e,e,e,e,e, b, a, b
+20199876,Sun-dried Tomatoes,c,681.992,6.4,11.9,1088,3,23,0,c,d,d,d,e,e,e,e, c, c, c
+20809676,Schwäbische Spätzle,b,635.968,0.8,3.4,400,6.4,0,0,b,c,b,c,e,c,d,e, b, b, b
+5.00016E+12,Beanz in a rich tomato sauce ORGANIC,a,343.088,5.4,0.2,240,4.9,3.8,0,a,b,b,b,c,c,c,d, a, a, a
+5.01367E+12,Organic Slightly Salted Wholgrain Rice Cakes,a,1648.496,0.5,2.7,120,8.5,3.1,0,a,b,b,c,c,c,d,d, a, a, a
+5.0138E+12,Eat Natural Almond & Apricot Bars,d,1991.584,31.2,26.6,24,6.6,4.6,0,d,c,b,c,d,c,d,e, d, e, c
+5.41119E+12,Almond dark chocolate drink,b,196.648,6.9,1.3,56,0.8,0.8,0,b,c,e,e,e,e,e,e, b, b, b
+5.41119E+12,Caffè soya caramel blend,d,146.44,4.9,0.8,56,1.5,1.3,0,d,c,e,e,e,e,e,e, d, a, a
+4.05649E+12,Vegan spread French style,b,569.024,0.5,9,440,8.5,0,0,b,c,c,e,e,d,e,e, b, b, b
+7.39438E+12,The Original Organic Oat Drink,b,154.808,4.1,0.5,40,1,0.8,0,b,c,e,e,e,e,e,e, b, a, b
+5.03447E+12,Tofoo Naked,a,514.632,0.7,6.9,40,12.6,0.9,0,a,c,a,d,e,b,e,e, a, a, a
+5.01836E+12,Simply nutty muesli,a,1573.184,14.2,6.8,12,9.9,8.6,0,a,b,a,b,c,a,c,d, a, a, a
+1.70488E+12,Vegetable balls,c,711.28,2.5,8.6,640,7.7,0,0,c,d,d,e,e,e,e,e, c, a, c
+3.52413E+12,Olives aux Herbes,c,1158.968,0.5,28,1480,1.3,3.8,0,c,d,e,e,e,e,e,e, d, c, c
+5.0195E+12,Mince,a,439.32,0.6,2,120,14.5,5.5,0,a,b,a,a,a,a,b,b, a, a, a
+50160884,Vegan Bouillon powder,e,1008.344,3.9,8.4,17520,9.6,0,0,e,d,e,e,e,e,e,e, e, e, e
+5.05008E+12,All-Bran Golden Crunch,c,1702.888,21,11,332,7.6,13,0,c,c,b,c,c,c,d,d, c, b, b
+5.06004E+12,Lightly Sea Salted,b,2096.184,2,24.4,200,5.9,5.3,0,b,c,b,b,d,c,c,e, b, b, c
+51000005,Cheese & Onion Flavour Potato Crisps,c,2150.576,2.6,29,480,6.3,3.8,0,c,c,b,c,d,c,d,e, d, d, c
+7.39438E+12,Oatly drink whole fridge version,b,238.488,4.1,2.8,40,1,0.8,0,b,c,e,e,e,e,e,e, b, b, b
+20622701,Medaglioni Basilic,,,,,,,,,c,c,c,e,e,d,e,e, c, a, c
+5.0195E+12,Totally Vegan Smoky Ham Free Slices,a,422.584,0.3,2.5,680,13.5,8.5,0,a,b,a,a,b,a,b,c, a, a, a
+5.03447E+12,Smoked Tofu,a,615.048,0.533,7.6,123,15.2,0.667,0,a,c,a,d,e,b,e,e, a, a, a
+5.06012E+12,Organic Oat Drink,b,217.568,4.3,1.8,36,1.6,0.5,0,b,c,e,e,e,e,e,e, b, b, b
+9.35204E+12,Vegemite,c,728.016,2.4,0.9,3356,25.9,8.4,0,c,b,a,a,b,a,a,c, c, c, c
+5.06041E+12,Oat M*lk,b,200.832,4.5,2.1,40,0.2,0,0,b,c,e,e,e,e,e,e, b, b, b
+5.06037E+12,Crunchy peanut butter,b,2535.504,5.7,48.4,140,26.3,8.8,99.5,b,b,a,a,a,a,a,b, b, b, b
+5.41119E+12,Oat No Sugars,a,167.36,0,1.5,36,0.2,1.2,0,a,c,e,e,e,e,e,e, a, a, a
+5.01836E+12,Simply Delicious Muesli,a,1539.712,14.7,7.3,10,9.6,9,0,a,b,a,b,c,a,c,d, a, a, a
+5.71195E+12,Nordic Oat Drink,b,205.016,3.3,1.5,68,1.2,0,0,b,c,e,e,e,e,e,e, b, b, b
+5.05399E+12,SIZZL‘N SPICY SPICY BBQ FLAVOUR,e,2175.68,4.4,29,0,5.2,0,0,e,c,d,e,e,e,e,e, e, e, c
+5.06013E+12,Peanut butter Crunchy,d,2493.664,5.9,46,0,30,8.5,0,d,b,a,a,d,a,b,e, b, b, b
+7.61329E+12,Shreddies,a,1522.976,12.5,1.8,288,10.8,12,0,a,b,a,b,b,b,c,c, a, a, a
+20475598,Ceci - Chickpeas in Water,a,531.368,0.5,2.7,10,6.7,5.1,0,a,b,a,b,b,b,c,c, a, a, a
+41005514,Whole Grain Rye Bread,a,840.984,2.2,1,460,5.2,7.7,0,a,b,b,c,c,c,d,d, c, b, a
+5.01004E+12,Wholemeal Medium Sliced,a,974.872,2.4,2.8,380,10.6,6.4,0,a,b,a,b,b,a,c,c, a, a, a
+5.01027E+12,Dark Rye Crunchy Rye Breads,a,1430.928,3,1.200000048,296.0000038,8.5,15.2,0,a,b,a,a,b,a,b,c, a, a, a
+5.01367E+12,Crunchy Peanut Butter,c,2690.312,3.8,54.3,440,27.7,6.7,0,c,c,a,c,e,a,d,e, c, b, c
+5.01401E+12,Vegetarian Mozzarella 1/4 LB Burgers,c,1054.368,0.9,14.7,560,19.8,5,0,c,c,a,b,d,a,c,e, c, a, b
+5.01421E+12,Meridian Crunchy Peanut Butter,b,2493.664,5.9,46,0,29.6,8.5,0,b,b,a,a,d,a,b,e, b, b, b
+5.01421E+12,Crunchy peanut butter,b,2493.664,5.9,46,0,30,8.5,100,b,a,a,a,a,a,a,a, b, b, b
+5.0195E+12,Quorn Pieces,a,414.216,0.6,2.6,320,13.8,7.1,0,a,b,a,a,b,a,b,c, a, a, a
+5.06036E+12,Organic & unsweetened Almond,b,121.336,0,2.5,40,1,0.5,0,b,c,e,e,e,e,e,e, b, b, b
+8.0087E+12,Gluten Free Brown Ciabatta Rolls,a,1192.44,4.6,9.4,368,6.8,9.6,0,a,c,b,b,c,c,c,d, a, a, b
+9.32297E+12,Corn Thins Original,a,1599.999953,0.388888889,3.333333333,261.1111111,10,7.222222222,0,a,b,a,b,b,a,c,c, a, a, a
+4.0886E+12,Unsweetened UHT Soya Drink,a,158.992,0,2.1,32,3.6,0,0,a,c,d,d,e,e,e,e, a, a, a
+7.39438E+12,The Original Oat Drink Semi,b,192.464,4.1,1.5,40,1,0.8,0,b,c,e,e,e,e,e,e, b, a, b
+5.94145E+12,Salt Chips,d,2263.544,0.6,35,600,5.4,0,0,d,d,d,e,e,e,e,e, d, d, d
+5.0602E+12,Crosta & Mollica Organic Piadina 4 Wholeblend Flatbreads with Extra Virgin Olive Oil,d,1313.776,1.1,10.5,600,7.9,0,0,d,d,d,e,e,e,e,e, d, c, d
+5.01003E+12,Muesli,a,1543.896,16,5.8,112,12,8.3,0,a,b,a,b,c,b,c,d, a, a, a
+4.05649E+12,Hamburger Brötchen Classic,b,1171.52,6.1,5.5,480,9.7,3.5,0,b,c,b,b,c,c,c,d, c, c, a
+7.61329E+12,Cheerios Multigrain,b,1603.866667,17.66666667,5,333.3333333,9.333333333,9,0,b,b,b,b,c,c,c,d, b, b, b
+4.05649E+12,Simply porridge oats,a,1535.528,1,8.4,8,12.1,9.1,0,a,b,a,a,c,a,a,d, a, a, a
+20060831,Crownfield Premium Fruit and Nut Muesli,c,1648.496,25.4,12,24,8.5,7.9,0,c,c,a,c,c,a,d,d, c, a, c
+5.00018E+12,Marmite Yeast Extract,c,1087.84,1.2,0.5,4320,34,3.5,0,c,b,b,b,b,c,c,c, a, c, c
+5.01368E+12,Lincolnshire sausages,b,748.936,0.1,11,380,15,1.2,0,b,c,c,e,e,d,e,e, b, b, b
+5.01421E+12,Smooth peanut butter,b,2493.664,5.9,46,0,30,8.5,0,b,b,a,a,d,a,b,e, b, b, b
+5.01837E+12,Baked Beans In Tomato Sauce,a,364.008,4.7,0.6,200,4.5,3.7,0,a,b,b,b,c,c,c,d, a, a, a
+5.02649E+12,Quinoa Chips,c,2004.136,2.8,21.5,556,8.8,3.2,0,c,c,c,c,d,d,d,e, c, c, d
+5.05097E+12,Pumpkin Seed & Oat Crispbread,a,1548.08,2.7,6.6,180,13.5,16.8,0,a,b,a,b,c,a,c,d, a, a, a
+5.41119E+12,Soya Original Drink,a,163.176,2.5,1.8,32,3,0.5,0,a,c,d,d,e,e,e,e, a, a, a
+5.41119E+12,Organic Soya Unsweetened U.H.T.,a,133.888,0,1.9,12,3.3,0.6,0,a,c,d,d,e,e,e,e, a, a, a
+7.61303E+12,SHREDDED WHEAT,a,1506.24,0.7,2.2,20,12.2,12.2,0,a,b,a,a,b,a,a,c, a, a, a
+4.26033E+12,Fine hazelnut chocolate spread,d,2355.592,47,36,0,6.1,5.5,0,d,c,b,d,e,c,e,e, d, d, d
+8.71869E+12,What The Cluck Vegan Chicken Style Chunks,a,594.128,0.5,3.6,440,21,6.2,0,a,b,a,a,b,a,b,c, a, b, a
+5.00016E+12,Beanz No added sugar,a,271.96,1.9,0.2,160,4.6,3.6,0,a,b,b,b,c,c,c,d, a, a, a
+5.06041E+12,Minor Figures Barista Oat organic,b,184.096,2.5,1.8,40,0.2,0,0,b,c,e,e,e,e,e,e, b, a, b
+4.0886E+12,Oat,b,200.832,3.8,1.5,36,0.5,0.7,0,b,c,e,e,e,e,e,e, b, b, b
+4.05649E+12,Kimchi,c,150.624,0.3,0.4,764,1.1,0,0,c,d,e,e,e,e,e,e, c, c, c
+5.05775E+12,Tesco Oat Drink,b,196.648,4.2,1.5,40,0.5,0.7,0,b,c,e,e,e,e,e,e, b, b, b
+5.07E+12,Gut-loving granola,a,1870.248,7.9,17.9,24,13.2,17,0,a,b,a,a,c,a,b,d, a, e, a
+5.01003E+12,Riz Basmati,b,606.68,0.5,1.6,4,3.1,0.5,0,b,c,d,d,e,e,e,e, b, a, b
+20009847,Baked beans,a,347.272,5,0.6,340,4.1,0,0,a,c,c,c,e,d,d,e, c, a, a
+20239305,Mixed seedless grapes,b,251.04,15,0.5,4,0.5,0.7,0,b,c,e,e,e,e,e,e, e, b, b
+5.00013E+12,Crunchy Nut Corn Flakes Cereal,d,1665.232,35,4.5,300,6,2.5,0,d,c,c,c,c,d,d,d, b, b, b
+5.00013E+12,Special K The Original,c,1569,15,1.5,400,9,4.5,0,c,b,a,b,c,b,c,d, a, b, b
+5.00033E+12,Ready Salted Crisps,c,2192.416,0.4,31.9,560,6.1,4.3,0,c,c,b,d,d,c,e,e, d, d, d
+5.01148E+12,Cheerios,b,1606.656,17.6,5,332,9.2,8.9,0,b,b,b,b,c,c,c,d, b, b, b
+5.0195E+12,Vegan Chicken Free Slices,a,393.296,0.5,2.3,520,11,6.2,0,a,b,a,a,b,a,b,c, a, a, a
+8.71469E+12,Falafels De Patates Douces BIO,b,711.28,4,9.7,320,6,0,0,b,d,b,e,e,c,e,e, c, b, c
+3.03371E+12,Nescafé classic,e,4.184,0,0,0,0.2,0,0,e,c,e,e,e,e,e,e, e, b, e
+336789,Spinach Ricotta Tortelloni,b,673.624,1.4,3.3,140,6.3,1.7,0,b,c,b,b,d,c,c,e, b, a, a
+5.05383E+12,Trésor Kellogg's Choco Roulette offre spéciale,e,1874.432,0,0,0,0,0,0,e,c,e,e,e,e,e,e, e, e, e
+5.05932E+12,Special k Red berries,b,1631.76,16,1.4,292,8,6.6,0,b,b,a,b,b,b,c,c, a, a, b
+4.05649E+12,Vegan spread mexican style,b,736.384,0.7,13,520,7,2.3,0,b,c,c,d,d,d,e,e, b, b, b
+5.00017E+12,Houmous,c,1188.256,0.7,22.7,320,6.3,0,0,c,d,b,e,e,c,e,e, d, a, c
+5.01367E+12,Organic Vegetable Stock Cubes,e,29.288,0.3,0.4,360,0,0,0,e,c,e,e,e,e,e,e, e, b, b
+5.06009E+12,NAKD Noix de Cajou - 140g (4x1p),c,1715.44,39.2,23.4,40,10,4.7,100,c,b,a,a,a,a,b,b, c, a, b
+8.00511E+12,Tomatenfruchtfleisch mit Basilikum,b,108.784,2.8,0.2,120,1.2,0,0,b,c,e,e,e,e,e,e, a, b, b
+5.05383E+12,Bran Flakes,a,1497.872,14,2.2,264,11,17,0,a,b,b,b,b,c,c,c, a, a, a
+5.00012E+12,Wheat biscuits,a,1497.872,4.4,2,112,12,10,0,a,b,a,a,b,a,b,c, a, a, a
+4.05649E+12,Tofu basil,b,523,0.5,7.5,400,12,0,0,b,c,c,d,e,d,e,e, b, a, a
+85696608044,Silken tofu firm,a,234.304,0.6,2.6,28,7.1,0,0,a,c,b,b,e,c,c,e, a, b, a
+20245726,Pommes Rouges,a,213.384,11.6,0.5,4,0.6,1.2,0,a,c,e,e,e,e,e,e, a, a, a
+20809669,Schupfnudeln svana,b,769.856,6,2,384,6,3.2,0,b,b,b,c,c,c,d,d, a, b, a
+5.20239E+12,Prosociano Bloc,e,1167.336,0.3,17,1400,1.6,0,0,e,e,e,e,e,e,e,e, d, c, e
+8.71469E+12,Bio Houmous,b,866.088,0.5,14.9,360,7.6,0,0,b,c,c,e,e,d,e,e, b, b, b
+8714685902086;Bio Houmous;b;207;0.149;0.005;360.0;0;0;0.076,,,,,,,,,,,,,,,,,,,,
